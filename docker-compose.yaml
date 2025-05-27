@@ -1,3 +1,7 @@
+### login default
+### Email:    admin@example.com
+### Password: changeme
+
 services:
   nginx-proxy-manager:
     image: jc21/nginx-proxy-manager:latest
